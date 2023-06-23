@@ -1,6 +1,6 @@
 # Parametriks
 
-![Parametriks Logo](https://example.com/logo.png)
+![Parametriks Logo](.github/parametriks.png)
 
 Welcome to the Parametriks GitHub organization! Here you will find repositories containing the cutting-edge work we are doing to revolutionize the insurance industry through unparalleled risk assessment and innovative data-driven solutions. Our team of highly qualified data scientists and software engineers is dedicated to reshaping the insurance landscape by removing barriers and introducing new standards.
 
